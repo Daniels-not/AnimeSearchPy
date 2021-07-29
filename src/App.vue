@@ -2,7 +2,7 @@
   <div class="app">
     <header>
       <div class="four">
-        <h1><span>Created by Daniles</span> Anime <em>Search</em> Py</h1>
+        <h1><span>Created by Daniels</span> Anime <em>Search</em> Py</h1>
       </div>
     </header>
 
